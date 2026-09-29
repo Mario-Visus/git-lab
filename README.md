@@ -10,10 +10,10 @@ This is a team lab for 3 to 4 people. You will run a real team workflow on a uni
 
 | Name | GitHub username |
 |------|-----------------|
-| | |
-| | |
-| | |
-| | |
+|Pablo Houghton |PabloHoughton |
+|Mario Visus |Mario-Visus |
+|Fernando Aznar |Pepe666333 |
+|Javier Arto |javiarto06-commits |
 
 ## Lab rules
 
